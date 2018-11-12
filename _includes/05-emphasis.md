@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**my favorite _sports_**
+1. **basketball**
+2. *squash*
+3. baseball
+
+_my favorite **fruits**_
+- apple
+- grape
+- ~~strawberry~~
